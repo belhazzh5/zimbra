@@ -295,8 +295,7 @@ BODY									{	margin:0px; 	}
 .LoginScreen H1,
 .SplashScreen H1 	{	@LoginH1@ 		}
 
-#ZLoginAppName 		{	@LoginAppName@ 	}
-
+#ZLoginAppName 		{	@LoginAppName@;margin-top:40px;padding: 3px;position:absolute;bottom:3px;left:2px}
 .LoginScreen .ImgLoginBanner, 
 .LoginScreen .ImgAppBanner, 
 .SplashScreen .ImgLoginBanner {
